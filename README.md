@@ -1,12 +1,10 @@
 # ASUS ROG Zephyrus G14 GA402RJ OpenCore EFI
 
-适用于 ASUS ROG Zephyrus G14（2022，GA402RJ）的 OpenCore EFI 分享副本。
+适用于 ASUS ROG Zephyrus G14（2022，GA402RJ）的 OpenCore EFI。
 
 ## EFI 内容
 
 EFI 包含 OpenCore、启动文件、ACPI 补丁及驱动。配置中启用了 AirportItlwm、IntelBluetoothFirmware 等 Intel 无线网卡相关驱动；驱动的存在不代表所有功能或所有 macOS 版本均已验证。实际兼容性与 BIOS、macOS 版本及硬件配置有关。
-
-此副本不包含 Windows / Ubuntu 启动配置、旧配置或原始 VBIOS 备份。
 
 ## 使用前
 
